@@ -1,0 +1,39 @@
+body {
+    background-color: #57CC99;
+}
+.jokeContainer {
+    background-color: #80ED99;
+    position: absolute;
+    top: 30%;
+    left: 35%;
+    margin: -25px 0 o -25px;
+    width: 30vw;
+    height: 20vw;
+    text-align: center;
+    padding: 2%;
+    box-shadow: 5px 5px 15px 5px #FFF;
+}
+.header {
+    position: absolute;
+    left: 30%;
+    top: -10%;
+    color: #fff;
+    font-size: 10vw;
+    display: inline-block;
+}
+.boxText {
+    color: #fff;
+}
+button {
+    border: none;
+    background-color: rgb(108, 182, 35);
+    color: #FFF;
+    cursor: pointer;
+    padding: 4%;
+    border-radius: 10%;
+    margin-top: 10%;
+}
+.joke {
+    color: #fff;
+    font-size: 2rem;
+}
